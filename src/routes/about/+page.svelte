@@ -11,8 +11,8 @@
 		<h1>About</h1>
 		<p>
 			I'm a Software developer with over 2 years of front-end development experience, experienced in
-			both enterprise and open-source software development. I'm based in Italy and currently working
-			as a freelancer and coding in Node.js, React.js (and other web technologies) and Go(lang), but
+			both enterprise and open-source software development. I'm based in Bangalore, India and currently working
+			as a MEAN Stack Developer and coding in Node.js, React.js (and other web technologies) and Go(lang), but
 			I tend to learn and use the best technology and approach to best solve the problem I'm facing.
 		</p>
 		<h2>Skills</h2>
